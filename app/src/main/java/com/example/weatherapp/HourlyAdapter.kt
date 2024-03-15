@@ -43,7 +43,7 @@ class HourlyAdapter(private var forecastList: List<Hour>): RecyclerView.Adapter<
         holder.timeViewer.text = formatTimeToAMPM(forecastList[position].time)
         holder.tempViewr.text = forecastList[position].temp_c.roundToInt().toString() + "\u00B0"
 
-
+//some doment
         val iconUrl = getIconUrl(forecastList[position].condition.icon)
         Glide.with(holder.itemView)
             .load(iconUrl)
