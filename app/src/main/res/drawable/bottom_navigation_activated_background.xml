@@ -1,0 +1,11 @@
+<!-- res/drawable/indicator_background.xml -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:gravity="center">
+        <shape
+            android:shape="rectangle">
+            <solid android:color="@color/black" />
+            <size
+                android:height="2dp" />
+        </shape>
+    </item>
+</layer-list>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/todayMenuItem"
+        android:title="Today"
+        android:icon="@drawable/today_weather_icon"/>
+    <item
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/thisWeekMenuItem"
+        android:title="This Week"
+        android:icon="@drawable/this_week_icon"/>
+
+    <item
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Watch"
+        android:id="@+id/watchMenuItem"
+        android:icon="@drawable/watch_icon"/>
+</menu>
