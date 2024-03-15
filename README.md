@@ -2,7 +2,7 @@
 
 Welcome to the Weather App! This Android application provides you with up-to-date weather information using the OpenWeatherMap API. With a sleek and intuitive interface, you can easily stay informed about the current weather conditions in your location and other locations around the world.
 
-![Weather App Screenshots](/ScreenShoot/photo_2024-03-15_23-36-52.jpg)
+<img src="/ScreenShoot/photo_2024-03-15_23-36-52.jpg" alt="Weather App Screenshots" width="400">
 
 ## Features
 
