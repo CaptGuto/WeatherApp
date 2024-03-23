@@ -107,9 +107,6 @@ class TodayFragment : Fragment() {
 
                 }
             }
-
-        Log.i("tryyit", "reached"
-        )
         viewModel.hourlyForecast.observe(requireActivity()) { weather ->
 
             val recyclerView: RecyclerView = view.findViewById(R.id.recyclerViewHourly)
