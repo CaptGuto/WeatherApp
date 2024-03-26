@@ -4,6 +4,7 @@ Welcome to the Weather App! This Android application provides you with up-to-dat
 
 <img src="/ScreenShoot/photo_2024-03-15_23-36-52.jpg" alt="Weather App Screenshots" width="400">
 
+
 ## Features
 
 - **Weather Information**: Get detailed weather information including temperature, humidity, wind speed, and more.
@@ -29,3 +30,6 @@ Welcome to the Weather App! This Android application provides you with up-to-dat
 1. Clone the repository to your local machine using the following command: git clone https://github.com/yourusername/weather-app.git
 2. Open the project in Android Studio.
 3. Build and run the application on your Android device or emulator.
+
+
+reinitiation: 26/03/2024
